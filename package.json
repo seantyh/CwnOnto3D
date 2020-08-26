@@ -59,5 +59,8 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "three": "^0.119.1"
+  }
 }
